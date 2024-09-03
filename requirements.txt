@@ -1,0 +1,8 @@
+Use case: 
+The app forecasts next three months sales for products by seller taking into consideration last three months sales data.
+
+
+Prerequisites:
+— pip install statsmodels
+— pip install pandas
+— pip install streamlit
