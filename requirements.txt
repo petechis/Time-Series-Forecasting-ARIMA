@@ -1,3 +1,1 @@
-pip install statsmodels
-pip install pandas
-pip install streamlit
+python -m pip install statsmodels
