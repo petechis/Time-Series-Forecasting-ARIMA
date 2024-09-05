@@ -1,1 +1,1 @@
-python -m pip install statsmodels
+python pip install statsmodels
