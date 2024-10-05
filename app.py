@@ -19,7 +19,7 @@ class SalesPredictor:
     def __init__(self):
 
         # Class attribute initialising by reading sales data from a CSV file.
-        self.sales_df=pd.read_csv('data/sales.csv')
+        self.sales_df=pd.read_csv('data/car-part-sales.csv')
         self.show_image = True
         # Setting up the list of unique products and sellers.
         self.products = list(set(self.sales_df['Product'].tolist()))
