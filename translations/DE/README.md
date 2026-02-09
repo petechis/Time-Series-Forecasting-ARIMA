@@ -163,11 +163,17 @@ streamlit run app.py
 ## 🎯 Was dieses Projekt beweist
 
 ✔ Machine Learning im Business-Kontext
+
 ✔ Rohdaten → Entscheidungsgrundlage
+
 ✔ Entwicklung nutzbarer Analytics Apps
+
 ✔ Zeitreihenkompetenz
+
 ✔ Visualisierung für Stakeholder
+
 ✔ Data Storytelling
+
 ✔ End-to-End Umsetzung
 
 ---
