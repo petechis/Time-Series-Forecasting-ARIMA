@@ -48,6 +48,7 @@ The result is delivered in:
 ## ⚙️ How It Works (Simple & Powerful)
 
 ![Landing Page](img/Landing_page.png)
+
 ### **Input**
 User selects:
 - Product → *Mercedes-Benz, Volkswagen, Audi, Porsche, BMW*
