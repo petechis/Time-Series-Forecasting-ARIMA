@@ -9,6 +9,7 @@
 ![Zeitreihe](https://img.shields.io/badge/ML-Time%20Series-success)
 ![Status](https://img.shields.io/badge/Projekt-Portfolio%20Ready-brightgreen)
 ---
+
 [English](..\EN\README.md) | [German](README.md)
 
 ## ✨ Geschäftsproblem
