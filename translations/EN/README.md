@@ -9,7 +9,7 @@
 ![Time Series](https://img.shields.io/badge/ML-Time%20Series-success)
 ![Status](https://img.shields.io/badge/Project-Portfolio%20Ready-brightgreen)
 
-[English](README.md) | [German](./translations/DE/README.md)
+[English](README.md) | [German](../DE/README.md)
 
 ## ✨ Business Problem
 
@@ -41,13 +41,13 @@ The result is delivered in:
 
 ## 🖥 Application Preview
 
-![Business Meeting](img/business_advisor_meeting.png)
+![Business Meeting](../../img/business_advisor_meeting.png)
 
 ---
 
 ## ⚙️ How It Works (Simple & Powerful)
 
-![Landing Page](img/Landing_page.png)
+![Landing Page](../../img/Landing_page.png)
 
 ### **Input**
 User selects:

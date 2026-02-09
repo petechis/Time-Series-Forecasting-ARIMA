@@ -42,13 +42,13 @@ Die Ergebnisse werden bereitgestellt als:
 
 ## 🖥 Anwendungsvorschau
 
-![Business Meeting](img/business_advisor_meeting.png)
+![Business Meeting](../../img/business_advisor_meeting.png)
 
 ---
 
 ## ⚙️ Funktionsweise (verständlich & wirkungsvoll)
 
-![Landing Page](img/Landing_page.png)
+![Landing Page](../../img/Landing_page.png)
 
 ### **Eingabe**
 Der Nutzer wählt:
@@ -56,6 +56,7 @@ Der Nutzer wählt:
 - Verkäufer → *George, Prince, Robin*
 
 ### **Verarbeitung**
+
 1. Filterung der historischen Daten  
 2. Aufbau der Zeitreihe  
 3. Training eines **ARIMA(2,1,1)** Modells  
@@ -63,6 +64,7 @@ Der Nutzer wählt:
 5. Aufbereitung für Entscheider  
 
 ### **Ausgabe**
+
 ✅ Absatzprognose pro Händler  
 ✅ Visuelle Darstellung als Linie  
 ✅ Management-taugliche Insights  

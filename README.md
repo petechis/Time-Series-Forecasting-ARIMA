@@ -20,7 +20,7 @@ A **car distributor** works with multiple dealers and wants to know:
 ✔ What revenue may look like in the coming months  
 ✔ Where to optimize stock, incentives, and marketing  
 
-Instead of guessing → we **forecast**.
+Instead of guessing → <font color='red'> **We forecast!**</font>
 
 ---
 
@@ -41,13 +41,13 @@ The result is delivered in:
 
 ## 🖥 Application Preview
 
-![Business Meeting](img/business_advisor_meeting.png)
+![Business Meeting](./img/business_advisor_meeting.png)
 
 ---
 
 ## ⚙️ How It Works (Simple & Powerful)
 
-![Landing Page](img/Landing_page.png)
+![Landing Page](./img/Landing_page.png)
 ### **Input**
 User selects:
 - Product → *Mercedes-Benz, Volkswagen, Audi, Porsche, BMW*
