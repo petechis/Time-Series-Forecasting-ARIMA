@@ -45,7 +45,7 @@ The result is delivered in:
 
 ---
 
-## ⚙️ How It Works (Simple & Powerful)
+## ⚙️ How It Works
 
 ![Landing Page](../../img/Landing_page.png)
 
@@ -136,7 +136,7 @@ Visualization | Streamlit Charts |
 
 ---
 
-## 🔁 Possible Future Upgrades (Recruiters love this part)
+## 🔁 Possible Future Upgrades
 
 ⭐ Prophet / LSTM comparison  
 ⭐ Confidence intervals  

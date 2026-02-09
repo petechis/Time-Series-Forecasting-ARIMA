@@ -46,7 +46,7 @@ Die Ergebnisse werden bereitgestellt als:
 
 ---
 
-## ⚙️ Funktionsweise (verständlich & wirkungsvoll)
+## ⚙️ Funktionsweise
 
 ![Landing Page](../../img/Landing_page.png)
 
@@ -137,7 +137,7 @@ Visualisierung | Streamlit Charts |
 
 ---
 
-## 🔁 Mögliche Erweiterungen (zeigt Produktdenken)
+## 🔁 Mögliche Erweiterungen
 
 ⭐ Prophet oder LSTM Vergleich  
 ⭐ Konfidenzintervalle  
@@ -176,14 +176,3 @@ streamlit run app.py
 
 **Pete Chisamba**
 Data & AI Enthusiast mit Fokus auf Decision Intelligence, Automatisierung und messbaren Geschäftswert.
-
----
-
-## 💡 Warum das wichtig ist
-
-Unternehmen stellen keine Modelle ein.
-Sie stellen Menschen ein, die **Vorhersagen in Entscheidungen verwandeln**.
-
-Genau das zeigt dieses Projekt.
-
-
