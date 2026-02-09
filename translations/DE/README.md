@@ -42,11 +42,13 @@ Die Ergebnisse werden bereitgestellt als:
 
 ## 🖥 Anwendungsvorschau
 
-(img/business_advisor_meeting.png)
+![Business Meeting](img/business_advisor_meeting.png)
 
 ---
 
 ## ⚙️ Funktionsweise (verständlich & wirkungsvoll)
+
+![Landing Page](img/Landing_page.png)
 
 ### **Eingabe**
 Der Nutzer wählt:
