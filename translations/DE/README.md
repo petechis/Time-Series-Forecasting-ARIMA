@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/Projekt-Portfolio%20Ready-brightgreen)
 ---
 
-[English](..\EN\README.md) | [German](README.md)
+[English](../EN/README.md) | [German](README.md)
 
 ## ✨ Geschäftsproblem
 
